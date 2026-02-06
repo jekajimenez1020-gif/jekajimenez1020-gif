@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="QA Engineer Banner" />
+  <img src="banner.png" alt="QA Engineer Banner" width="900"/>
 </p>
 
 ## Hi there 👋 I'm Jessica
