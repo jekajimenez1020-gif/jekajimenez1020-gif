@@ -1,4 +1,3 @@
-Md
 <p align="center">
   <img src="banner.png" alt="QA Engineer Banner" />
 </p>
