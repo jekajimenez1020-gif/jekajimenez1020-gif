@@ -2,17 +2,14 @@
   <img src="banner.png" alt="QA Engineer Banner" width="900"/>
 </p>
 
-## Hi there 👋 I'm Jessica
-
-<!--
-**jekajimenez1020-gif/jekajimenez1020-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Jessica Jiménez 
 
 Here are some ideas to get you started:
 
 💻 **QA Engineer | Software Testing & Quality Assurance**  
 🏭 **Industrial Safety & Occupational Hygiene Engineer**
 
-I am a QA Engineer with a strong background in **quality, prevention, and continuous improvement**, combining software testing with industrial safety principles to deliver reliable, user-focused, and risk-aware solutions.
+I am a QA Engineer with a strong background in **quality, prevention, and continuous improvement**, combining software testing with industrial safety principles to deliver reliable, user-focused, and risk-aware software solutions.
 
 I am passionate about **building quality from the beginning**, preventing defects, and ensuring that both **systems and processes are safe, efficient, and compliant**.
 
@@ -21,16 +18,16 @@ I am passionate about **building quality from the beginning**, preventing defect
 ### 🔍 What I do
 - Manual testing (functional, regression, exploratory)
 - Test case design and execution
-- Bug reporting and tracking
-- Quality assurance mindset applied to software and processes
+- Bug reporting and tracking (Jira)
 - Risk analysis and prevention-oriented testing
+- Quality assurance mindset applied to software and processes
 
 ---
 
 ### 🌱 Currently learning
-- Automation testing fundamentals
+- Test automation fundamentals
 - API testing
-- Agile & Scrum best practices
+- Agile & Scrum practices
 - Continuous improvement applied to software quality
 
 ---
