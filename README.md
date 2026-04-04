@@ -4,12 +4,31 @@
 
 ## 👋 Hola, soy Jessica Jiménez  
 
+📌 **QA Engineer enfocada en testing manual y automatización, con experiencia en pruebas Web, Mobile y API.**
+
 💻 **QA Engineer | Pruebas de Software y Aseguramiento de Calidad**  
 🏭 **Ingeniera en Seguridad Industrial e Higiene Ocupacional**
 
 Soy QA Engineer con una base sólida en **calidad, prevención y mejora continua**, combinando pruebas de software con principios de seguridad industrial para entregar soluciones confiables, centradas en el usuario y orientadas a la gestión del riesgo.
 
 Me apasiona **construir calidad desde el inicio**, prevenir errores y asegurar que tanto los **sistemas como los procesos sean seguros, eficientes y cumplan con los estándares**.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- 🧪 **Testing:** Manual, Exploratorio, Regresión  
+- 🤖 **Automatización:** Selenium WebDriver, PyTest (básico)  
+- 🔌 **API Testing:** Postman  
+- 🐞 **Gestión de bugs:** Jira  
+- 💻 **Lenguaje:** Python  
+- 📱 **Mobile:** Android Studio (emulador)  
+- 🌐 **Navegadores:** Chrome, Opera
 
 ---
 
@@ -22,7 +41,7 @@ Me apasiona **construir calidad desde el inicio**, prevenir errores y asegurar q
 
 ---
 
-### 🌱 Actualmente estoy reforzando 
+### 🌱 Actualmente estoy aprendiendo
 - Fundamentos de automatización de pruebas
 - Pruebas de API (Postman)
 - Metodologías ágiles (Scrum)
@@ -52,6 +71,8 @@ Mi experiencia en **Seguridad Industrial e Higiene Ocupacional** me permite:
 |----------|----------------|-------------|-------------|--------|
 | 1. 🛴 Urban Scooter | Web, Mobile, API (Manual) | Jira, Postman, Chrome, Opera, Android Studio | Testing integral enfocado en validación funcional, datos y backend | [Ver repositorio](https://github.com/jekajimenez1020-gif/qa-testing-project-Urban-Scooter) |
 | 2. 🚗 Urban Routes | Automatización E2E | Python, Selenium, PyTest | Automatización del flujo completo de solicitud de transporte | [Ver repositorio](https://github.com/jekajimenez1020-gif/qa-project-Urban-Routes-es) |
+
+---
 
 #### 1. 🛴 Urban Scooter – Testing integral (Web, Mobile y API)
 
@@ -84,15 +105,11 @@ Proyecto enfocado en la validación de una aplicación de alquiler de scooters e
   - Consulta de pedidos
   - Cancelación de pedidos
 
----
-
 📊 **Resultados:**
 - 🐞 5 bugs detectados en funcionalidades de estado del pedido (Web)
 - 🐞 11 bugs relacionados con validación de datos (Web)
 - 🐞 3 bugs en notificaciones (Mobile)
 - 🐞 1 bug en eliminación de pedidos (API)
-
----
 
 🛠️ **Herramientas utilizadas:**
 - Jira (gestión de bugs)
@@ -100,10 +117,10 @@ Proyecto enfocado en la validación de una aplicación de alquiler de scooters e
 - Postman (API testing)
 - Android Studio (Emulador Mobile)
 
----
-
 🎯 **Valor aportado:**
 Este proyecto permitió aplicar pruebas en múltiples plataformas, detectar errores críticos y asegurar la calidad del sistema desde una perspectiva integral, enfocada en la experiencia del usuario y la prevención de fallos.
+
+---
 
 #### 2. 🚗 Urban Routes – Automatización de pruebas end-to-end
 
@@ -122,25 +139,21 @@ Proyecto enfocado en la automatización de pruebas para una aplicación web de s
 - Ejecución de pruebas end-to-end (E2E)
 - Diseño de pruebas automatizadas dependientes para simular flujo real del usuario
 
----
-
 🛠️ **Herramientas utilizadas:**
 - Python
 - Selenium WebDriver
 - PyTest
 - PyCharm
 
----
-
 📊 **Resultados:**
 - Automatización del flujo crítico principal del negocio
 - Validación completa del proceso de solicitud de transporte
 - Reducción del tiempo en pruebas repetitivas
 
----
-
 🎯 **Valor aportado:**
 Este proyecto permitió validar de forma automatizada un flujo completo del usuario, asegurando la estabilidad del sistema y simulando escenarios reales de uso, lo que mejora la confiabilidad del producto.
+
+---
 
 ### 📫 Contacto
 - 📧 Email: **jekajimenez1020@gmail.com**
