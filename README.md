@@ -48,6 +48,11 @@ Mi experiencia en **Seguridad Industrial e Higiene Ocupacional** me permite:
 
 ### 📂 Proyectos destacados
 
+| Proyecto | Tipo de Testing | Tecnologías | Descripción | Enlace |
+|----------|----------------|-------------|-------------|--------|
+| 1. 🛴 Urban Scooter | Web, Mobile, API (Manual) | Jira, Postman, Chrome, Opera, Android Studio | Testing integral enfocado en validación funcional, datos y backend | [Ver repositorio](https://github.com/jekajimenez1020-gif/qa-testing-project-Urban-Scooter) |
+| 2. 🚗 Urban Routes | Automatización E2E | Python, Selenium, PyTest | Automatización del flujo completo de solicitud de transporte | [Ver repositorio](https://github.com/jekajimenez1020-gif/qa-project-Urban-Routes-es) |
+
 #### 1. 🛴 Urban Scooter – Testing integral (Web, Mobile y API)
 
 Proyecto enfocado en la validación de una aplicación de alquiler de scooters eléctricos, donde se realizaron pruebas completas en **web, mobile y API**, cubriendo funcionalidades clave del sistema.
@@ -99,6 +104,43 @@ Proyecto enfocado en la validación de una aplicación de alquiler de scooters e
 
 🎯 **Valor aportado:**
 Este proyecto permitió aplicar pruebas en múltiples plataformas, detectar errores críticos y asegurar la calidad del sistema desde una perspectiva integral, enfocada en la experiencia del usuario y la prevención de fallos.
+
+#### 2. 🚗 Urban Routes – Automatización de pruebas end-to-end
+
+Proyecto enfocado en la automatización de pruebas para una aplicación web de solicitud de transporte, cubriendo el flujo completo del usuario desde la configuración del viaje hasta la asignación del conductor.
+
+🔍 **Actividades realizadas:**
+- Automatización del flujo completo de solicitud de taxi:
+  - Configuración de rutas
+  - Selección de tarifas
+  - Registro de número de teléfono
+  - Adición de método de pago
+  - Envío de mensaje al conductor
+  - Solicitud de servicios adicionales (manta, pañuelos, helados)
+  - Solicitud del taxi
+  - Validación de asignación de conductor
+- Ejecución de pruebas end-to-end (E2E)
+- Diseño de pruebas automatizadas dependientes para simular flujo real del usuario
+
+---
+
+🛠️ **Herramientas utilizadas:**
+- Python
+- Selenium WebDriver
+- PyTest
+- PyCharm
+
+---
+
+📊 **Resultados:**
+- Automatización del flujo crítico principal del negocio
+- Validación completa del proceso de solicitud de transporte
+- Reducción del tiempo en pruebas repetitivas
+
+---
+
+🎯 **Valor aportado:**
+Este proyecto permitió validar de forma automatizada un flujo completo del usuario, asegurando la estabilidad del sistema y simulando escenarios reales de uso, lo que mejora la confiabilidad del producto.
 
 ### 📫 Contacto
 - 📧 Email: **jekajimenez1020@gmail.com**
